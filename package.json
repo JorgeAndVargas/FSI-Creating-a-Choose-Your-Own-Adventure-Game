@@ -1,0 +1,19 @@
+{
+  "name": "fsi-creating-a-choose-your-own-adventure-game",
+  "version": "1.0.0",
+  "description": "This is an activity for SD Lesson 1.10.2- Conditional Statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeAndVargas/FSI-Creating-a-Choose-Your-Own-Adventure-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeAndVargas/FSI-Creating-a-Choose-Your-Own-Adventure-Game/issues"
+  },
+  "homepage": "https://github.com/JorgeAndVargas/FSI-Creating-a-Choose-Your-Own-Adventure-Game#readme"
+}
